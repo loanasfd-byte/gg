@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerAddresses</key>
+				<array/>
+				<key>ServerName</key>
+				<string>Tiktok: Kenapple96</string>
+				<key>ServerURL</key>
+				<string>https://apple.dns.nextdns.io/eab6bf/fullsevice-sangtao</string>
+			</dict>
+			<key>OnDemandRules</key>
+			<array>
+				<dict>
+					<key>Action</key>
+					<string>Connect</string>
+					<key>InterfaceTypeMatch</key>
+					<string>WiFi</string>
+				</dict>
+				<dict>
+					<key>Action</key>
+					<string>Connect</string>
+					<key>InterfaceTypeMatch</key>
+					<string>Cellular</string>
+				</dict>
+			</array>
+			<key>PayloadDisplayName</key>
+			<string>Tiktok: Kenapple96</string>
+			<key>PayloadIdentifier</key>
+			<string>io.nextdns.eab6bf.profile.dnsSettings.managed</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.eab6bf.dnsSettings.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Các chức năng của phần mềm:
+❤️FREE chặn giúp ae bảo toàn dữ liệu, không khuyến khích sử dụng để bùng, chỉ khuyến khích khi ae bị lừa đảo qua mạng - Khi có tiền ae lh chủ vay gỡ
+
+
+❤️ Hỗ trợ: Zalo/ĐT 0588567896 Tiktok: (Kenapple96) 
+🍏Bảng giá thu mua máy Bị quên, icloud, mdm giá tốt nhất
+
+✅X-11Prm: 2tr-3tr
+✅12-12promax: 3tr5 - 5tr
+✅13-13promax: 4tr5 -5.5tr
+✅14-14promax: 6tr - 10tr
+✅15-15promax: 7tr- 13tr
+✅16-16promax: 11tr-19tr
+✅17-17promax, iphone Air: 14tr - 25tr
+(Trên đay là bảng giá thu mua máy bị icloud do tải game, apps, bị lừa khoá, mdm ,vv  máy sạch thu giá bình thường!!
+🍏Thu mua Giá cao miễn không vi phạm pháp luật ạ!! Ae gọi 0588567896 để được hỗ trợ thu tận nơi tận nhà kv HN!</string>
+	<key>PayloadDisplayName</key>
+	<string>FREE Chặn Xoá 2 năm - Sang Táo(kenapple96) V4.0</string>
+	<key>PayloadIdentifier</key>
+	<string>com.example.systemwide.dns.nextdns</string>
+	<key>PayloadOrganization</key>
+	<string>Thu mua máy ICL, MDM giá cao 0588567896</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>E6D2B98F-11F2-46E1-84DB-3AA1DAEDE85B</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
